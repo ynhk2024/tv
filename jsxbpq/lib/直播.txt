@@ -1,0 +1,8 @@
+[
+{"name":"花开电视","url":"https://yimolan.serv00.net/zy/电视剧.txt&&&"},
+{"name":"花开IPV6","url":"https://yimolan.serv00.net/zy/山东央视.txt&&&"},
+{"name":"TV/Radio","url":"https://yimolan2024.serv00.net/yml/lib/radio.txt&&&"},
+{"name":"影音视界","url":"https://yimolan2024.serv00.net/yml/lib/tv.txt&&&"},
+{"name":"音乐现场","url":"https://yimolan2024.serv00.net/yml/lib/music.txt&&&"},
+{"name":"D大直播","url":"http://rihou.cc:555/gggg.nzk&&&"}
+]
